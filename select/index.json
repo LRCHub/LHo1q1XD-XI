@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Pop Corn",
+  "base_artist": "BLOOM VASE",
+  "createdAt": "2026-03-08T05:36:58.407951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lambrusco & pop corn",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/01_Lambrusco_&_pop_corn_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pop Corn",
+      "artist": "Boostee",
+      "has_synced": true,
+      "path": "select/02_Pop_Corn_Boostee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lambrusco & pop corn [Remastered]",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/03_Lambrusco_&_pop_corn_[Remastered]_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pop Corn",
+      "artist": "Anarchic System",
+      "has_synced": false,
+      "path": "select/04_Pop_Corn_Anarchic_System.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pop Corn",
+      "artist": "Shizuka Kudo",
+      "has_synced": false,
+      "path": "select/05_Pop_Corn_Shizuka_Kudo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pop Corn",
+      "artist": "Shadmehr Aghili",
+      "has_synced": true,
+      "path": "select/06_Pop_Corn_Shadmehr_Aghili.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pop Corn e patatine",
+      "artist": "Pepe",
+      "has_synced": true,
+      "path": "select/07_Pop_Corn_e_patatine_Pepe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pop Corn e patatine (feat. Keynoise)",
+      "artist": "Pepe",
+      "has_synced": true,
+      "path": "select/08_Pop_Corn_e_patatine_(feat._Keynoise)_Pepe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pop Corn e patatine RMX",
+      "artist": "Samurai Jay",
+      "has_synced": true,
+      "path": "select/09_Pop_Corn_e_patatine_RMX_Samurai_Jay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lambrusco & Pop Corn",
+      "artist": "Ligabue",
+      "has_synced": false,
+      "path": "select/10_Lambrusco_&_Pop_Corn_Ligabue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pop Corn",
+      "artist": "BLOOM VASE",
+      "has_synced": false,
+      "path": "select/pl_01_Pop_Corn_BLOOM_VASE.txt"
+    }
+  ]
+}
